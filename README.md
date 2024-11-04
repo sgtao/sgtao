@@ -4,7 +4,7 @@
 - :computer: Languages：JavaScript, TypeScript, Python :snake:
   - React, Vue, Streamlit
 - :cloud: Cloud & Tools
-  - Google Cloud, GitHub Actions, [Deta Space](https://github.com/deta)
+  - Google Cloud, GitHub Actions, ~~[Deta Space](https://github.com/deta)~~
 
 ## Stats :bar_chart:
 <p align="left">
